@@ -1,3 +1,4 @@
 Ahoj, svet!
 Tento subor sluzi na ukazku konfliktu v Gite.
 Pekny den!
+Som tuff
