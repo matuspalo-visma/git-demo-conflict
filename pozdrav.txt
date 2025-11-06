@@ -1,4 +1,4 @@
 Ahoj, svet!
-Tento subor sluzi na ukazku konfliktu v Gite.
+Tento subor upravil Kupko
 Pekny den!
 Som tuff
